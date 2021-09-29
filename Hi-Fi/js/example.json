@@ -1,0 +1,133 @@
+{
+    "products": [        
+        {
+            "id":1,
+            "category_name":"amplifiers",
+            "subCategories": ["Integrated Amplifiers", "Power Amplifiers"],
+            "price" : [429.00, 329.00],
+            "image": "creek_classic_cd.jpg",
+            "hasButom": true
+        },
+        {
+            "id":2,
+            "category_name":"amplifiers",
+            "subCategories": ["Integrated Amplifiers", "Power Amplifiers"],
+            "price" : 329.00,
+            "image": "creek_evo_cd.jpg",
+            "hasButom": true
+        },
+
+        {
+            "id":3,
+            "category_name":"amplifiers",
+            "subCategories": ["Integrated Amplifiers", "Power Amplifiers"],
+            "price" : 399.00,
+            "image": "creek_classic_cd.jpg",
+            "hasButom": false
+        },
+
+        {
+            "id":4,
+            "category_name":"amplifiers",
+            "subCategories": ["Integrated Amplifiers", "Power Amplifiers"],
+            "price" : 399.00,
+            "image": "Exp_2010S_CD.gif",
+            "hasButom": true
+        },
+        {
+            "id":5,
+            "category_name":"amplifiers",
+            "subCategories": ["Integrated Amplifiers", "Power Amplifiers"],
+            "price" : [429.00, 329.00],
+            "image": "creek_classic_cd.jpg",
+            "hasButom": true
+
+        },
+
+        {
+            "id":6,
+            "category_name":"amplifiers",
+            "subCategories": ["Integrated Amplifiers", "Power Amplifiers"],
+            "price" : 329.00,
+            "image": "creek_evo_cd.jpg",
+            "hasButom": true
+
+        },
+
+        {
+            "id":7,
+            "category_name":"amplifiers",
+            "subCategories": ["Integrated Amplifiers", "Power Amplifiers"],
+            "price" : 399.00,
+            "image": "creek_classic_cd.jpg",
+            "hasButom": false
+        },
+
+        {
+            "id":8,
+            "category_name":"amplifiers",
+            "subCategories": ["Integrated Amplifiers", "Power Amplifiers"],
+            "price" : 399.00,
+            "image": "Exp_2010S_CD.gif",
+            "hasButom": false
+        },
+        {
+            "id":9,
+            "category_name":"amplifiers",
+            "subCategories": ["Integrated Amplifiers", "Power Amplifiers"],
+            "price" : [429.00, 329.00],
+            "image": "creek_classic_cd.jpg",
+            "hasButom": true
+
+        },
+
+        {
+            "id":10,
+            "category_name":"amplifiers",
+            "subCategories": ["Integrated Amplifiers", "Power Amplifiers"],
+            "price" : 329.00,
+            "image": "creek_evo_cd.jpg",
+            "hasButom": false
+
+        },
+
+        {
+            "id":11,
+            "category_name":"amplifiers",
+            "subCategories": ["Integrated Amplifiers", "Power Amplifiers"],
+            "price" : 399.00,
+            "image": "creek_classic_cd.jpg",
+            "hasButom": true
+        },
+
+        {
+            "id":12,
+            "category_name":"amplifiers",
+            "subCategories": ["Integrated Amplifiers", "Power Amplifiers"],
+            "price" : 399.00,
+            "image": "Exp_2010S_CD.gif",
+            "hasButom": false
+        },
+        
+
+
+
+
+
+
+
+        {
+            "id":3,
+            "category_name": "speakers",
+            "subCategories": ["Integrated Amplifiers", "Power Amplifiers"],
+            "price" : [429.00, 329.00],
+            "image": "creek_classic_cd.jpg",
+            "hasButom": true
+        }
+
+
+
+
+
+    ]
+}

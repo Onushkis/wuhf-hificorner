@@ -2,7 +2,7 @@
         "Categories": [
             {
                
-                "category_name": "Shop By Brand",
+                "category_name": "shop By Brand",
                 "subCategories": ["Integrated Amplifiers", "Power Amplifiers"],
                 "image": "category1.jpg",
                 "url": "shop_category.html"
@@ -27,7 +27,7 @@
 
             {
                 "id":3,
-                "category_name": "Turntables",
+                "category_name": "TurnTables",
                 "subCategories": ["Notegrated Cd players", "Power Cd players", "Nower Cd players"],
                 "image": "category4.jpg",
                 "url": "shop_category.html"
@@ -35,7 +35,7 @@
 
             {
                 "id":4,
-                "category_name": "Cd Players",
+                "category_name": "CdPlayers",
                 "subCategories": ["tegrated Streamers", "Po Streamers", "ower Streamers"],
                 "image": "category5.jpg",
                 "url": "shop_category.html"
@@ -75,7 +75,7 @@
 
             {
                 "id":9,
-                "category_name": "Home cinima",
+                "category_name": "HomeCinima",
                 "subCategories": ["Red Home cinima", "XLL blue Home cinima", "KLL-pink Home cinima"],
                 "image": "category10.jpg",
                 "url": "shop_category.html"
@@ -83,7 +83,7 @@
 
             {
                 "id":10,
-                "category_name": "Outlet save up to 50% off",
+                "category_name": "outletsaveupto50%off",
                 "subCategories": ["MN Outlet save up to 50% off", "XLL Outlet save up to 50% off"],
                 "image": "category11.jpg",
                 "url": "shop_category.html"
@@ -91,7 +91,7 @@
 
             {
                 "id":11,
-                "category_name": "Ebay shop",
+                "category_name": "ebay shop",
                 "subCategories": ["Fast Ebay shop", " slsowly Ebay shop", "slsowly Ebay shop" ],
                 "image": "category1.jpg",
                 "url": "shop_category.html"
@@ -99,7 +99,7 @@
 
             {
                 "id":12,
-                "category_name": "Ceiling speakers",
+                "category_name": "CeilingSpeakers",
                 "subCategories": ["M Ceiling speakers", " XL Ceiling speakers", "XLL Ceiling speakers" ],
                 "image": "category2.jpg",
                 "url": "shop_category.html"
@@ -107,7 +107,7 @@
 
             {
                 "id":13,
-                "category_name": "Tvs",
+                "category_name": "TV",
                 "subCategories": ["Ml Tvs", " XLm Tvs", "XLLTvs", "MLLTvs" ],
                 "image": "category3.jpg",
                 "url": "shop_category.html"
@@ -115,7 +115,15 @@
 
             {
                 "id":14,
-                "category_name": "Vinyl Lps",
+                "category_name": "vinyl",
+                "subCategories": [" Retro Vinyl Lps", " Fancy Vinyl Lps", " Used Vinyl Lps", "S Vinyl Lps" ],
+                "image": "category4.jpg",
+                "url": "shop_category.html"
+            },
+
+            {
+                "id":14,
+                "category_name": "Outlet-Save££££",
                 "subCategories": [" Retro Vinyl Lps", " Fancy Vinyl Lps", " Used Vinyl Lps", "S Vinyl Lps" ],
                 "image": "category4.jpg",
                 "url": "shop_category.html"
@@ -126,6 +134,18 @@
             
 
         ]
+
+        
+         
+
+         
+        
+
+          
+
+            
+
+        
         }
     
         

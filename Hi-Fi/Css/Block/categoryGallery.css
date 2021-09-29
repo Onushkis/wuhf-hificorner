@@ -23,6 +23,13 @@
   cursor: pointer;
 }
 
+.CategoryImg__img img:hover{
+  transform: scale(1.2);
+	
+overflow: hidden !important;
+	transition-duration: 2s;
+}
+
 .CategoryImg__text {
   font-weight: bold;
   padding: 5px;

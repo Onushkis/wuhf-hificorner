@@ -14,6 +14,58 @@
         {
             "id": 3,
             "label": "TurnTables"    
+        },
+        {
+            "id": 4,
+            "label": "CdPlayers"    
+        },
+
+        {
+            "id": 5,
+            "label": "Streamers" 
+        },
+
+        {
+            "id": 6,
+            "label": "Cables" 
+        },
+
+        {
+            "id": 7,
+            "label": "Furniture" 
+        },
+       
+        {
+            "id": 8,
+            "label": "Headphones" 
+        },
+
+        {
+            "id": 9,
+            "label": "HomeCinima" 
+        },
+
+        {
+            "id": 10,
+            "label": "CeilingSpeakers" 
+        },
+
+        {
+            "id": 11,
+            "label": "TV" 
+        },
+
+        {
+            "id": 12,
+            "label": "Vinyl" 
+        },
+
+        {
+            "id": 13,
+            "label": "Outlet-Save££££" 
         }
+       
+       
+       
     ]
 }

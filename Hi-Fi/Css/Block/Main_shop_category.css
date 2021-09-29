@@ -12,7 +12,16 @@
   padding: 2em;
   cursor: pointer;
   max-width: 250px;
+  
 }
+
+.Main_shop_category__ul li:hover{
+  background-color: whitesmoke;
+	 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   width: 60%;
+ 
+   text-align: center;
+} 
 
 /*------------------------------------Home/Shop*/
 .Main_shop_category__span {
@@ -160,4 +169,14 @@
 
 .Main_shop_category__aside3__list{
   margin-top: 4em;
+}
+
+/*Main Single Product*/
+
+
+.MainSingleProdukt{
+  background-color: white;
+}
+.MainSingleProdukt__imgSale{
+  padding: 3em;
 }

@@ -6,7 +6,7 @@
     justify-content: flex-end;
     width: 100%;
     align-items: center;
-    font-size: 24px;
+    font-size: 18px;
     color: var(--white);
     font-weight: normal;
     cursor: pointer;
@@ -19,6 +19,10 @@
 .Header__icons__envelope{
     margin-right: 20px;
 }
+.Header__icons__user,
+.Header__icons__cart{
+margin-right: 2em;
+} 
 
 
 .Header__hr{
@@ -27,4 +31,50 @@
 
 .header__shopCategory{
     background-color: black;
+}
+
+.seachDiv{
+    display: flex;
+    justify-content: space-between;
+     width: 400px; 
+    background-color: var(--white);
+    color: black;
+    border: none;
+    margin-right: 4em;
+}
+
+#seach{
+    border: none;
+    color: var(--brown);
+   
+}
+
+.headerSingleProdukt_Icons{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+    font-size: 24px;
+    color: var(--white);
+    font-weight: normal;
+    cursor: pointer;
+}
+
+.Header__logo{
+    width: 50px;
+    margin-left: 1em;
+}
+
+.Header__socMedia{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Header__Icons{
+    font-size: 18px;
+}
+
+.Header__icons__user{
+    margin-right: 1em;
 }
