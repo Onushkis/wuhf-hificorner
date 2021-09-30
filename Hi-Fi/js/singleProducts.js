@@ -58,8 +58,7 @@ document.addEventListener("DOMContentLoaded", () => {
     </div>
 
 
-    CategoryImg__img
-   
+    
    `;
       });
   } //closes fetchid

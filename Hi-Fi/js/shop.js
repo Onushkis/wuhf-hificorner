@@ -29,16 +29,18 @@ document.addEventListener("DOMContentLoaded", () => {
   
 
  <div class="CategoryImg__img">
-     <img src="images/cd_afspillere/${product.image}" alt="">
+ <a href="singleProduct.html?id=${product.id}"><img src="images/cd_afspillere/${product.image}" alt=""> <p class="CategoryImg__text">yamaha R-N402 network <br> HiFI Receiver</p>
+ <p class="CategoryImg__price">£429.00 £329.00</p></a>
+     
   
-       <p class="CategoryImg__text">yamaha R-N402 network <br> HiFI Receiver</p>
-       <p class="CategoryImg__price">£429.00 £329.00</p>
+       
   
    <div class="CategoryImg__btn">
    ${buttonString}
    </div>
   </div>
-   </div>    
+   </div>   
+
 
    
 
