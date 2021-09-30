@@ -3,6 +3,7 @@
 
         {
             "id":1,
+            "name":"creek classic cd",
             "category_name":"Amplifiers",
             "subCategories": ["Integrated Amplifiers", "Power Amplifiers"],
             "price" : [429.00, 329.00],

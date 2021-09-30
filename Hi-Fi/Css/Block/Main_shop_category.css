@@ -178,5 +178,59 @@
   background-color: white;
 }
 .MainSingleProdukt__imgSale{
-  padding: 3em;
+  padding: 1em;
 }
+
+
+/*SingleProdukt*/
+
+.MainflexImgText{
+  display: flex;
+  justify-content: space-around;
+ 
+  
+}
+
+.MainflexText{
+  font-size: 24px;
+  color: var(--brown);
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.MainflexImg{
+  display: flex;
+  margin: 2em;
+}
+
+.MainflexImgText__img{
+
+  border: 1px solid lightgrey;
+    padding: 10em;
+    /* width: 60%; */
+}
+
+.MainflexPrice{
+  display: flex;
+  justify-content: space-between;
+  font-size: 18px;
+  color: var(--brown);
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.MainflexPriceLine{
+  text-decoration: line-through;
+  margin-right: 10px;
+}
+
+.MainflexImgTextt{
+  width: 50%;
+}
+
+.mainText{
+  margin: 3em;
+  color: var(--brown);
+  font-size: 18px;
+}
+
