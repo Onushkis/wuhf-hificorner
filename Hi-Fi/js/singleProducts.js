@@ -37,6 +37,13 @@ document.addEventListener("DOMContentLoaded", () => {
           adipisicing elit. Rem deleniti aut libero necessitatibus doloribus consequuntur perspiciatis
           debitis, nisi qui eum quisquam laboriosam voluptatibus deserunt ea est animi sunt laborum dolor.
       </div>
+
+      <div class="flexContainerBTN">   
+    <button class="flexContainerBTNt" >Ask Questions</button>
+    <button class="flexContainerBTNt">Part exchange</button>
+    <button class="flexContainerBTNt">PAy by finace</button>
+    <button class="flexContainerBTNt">Seen a better preice</button> 
+</div>     
    
    </div>
    

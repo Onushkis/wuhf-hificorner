@@ -17,10 +17,22 @@
 .CategoryImg__img,
 .CategoryImg__text,
 .CategoryImg__price,
-.CategoryImg__btn {
+.CategoryImg__btn,
+.flexContainerBTN {
   text-align: center;
   padding: 5px;
   cursor: pointer;
+}
+.flexContainerBTNt {
+  background-color: var(--brown);
+  padding: 0.7em;
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  cursor: pointer;
+  margin-top: 2em;
+
 }
 
 .CategoryImg__img img:hover{
@@ -35,7 +47,9 @@ overflow: hidden !important;
   padding: 5px;
 }
 
-.CategoryImg__gallery__add {
+.CategoryImg__gallery__add
+
+{
   background-color: var(--brown);
   padding: 0.5em;
   color: white;

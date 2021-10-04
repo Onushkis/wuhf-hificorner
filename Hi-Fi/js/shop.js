@@ -1,5 +1,13 @@
 document.addEventListener("DOMContentLoaded", () => {
   // Create the main category gallery
+  let titleh2 = document.querySelector(".Main_shop_category__title");
+
+  let url = window.location.search;
+
+  let urlParam = new URLSearchParams(url);
+
+  titleh2.innerHTML = urlParam.get("categoryName");
+
   fetchCategory();
 
   function fetchCategory() {
@@ -29,7 +37,7 @@ document.addEventListener("DOMContentLoaded", () => {
   
 
  <div class="CategoryImg__img">
- <a href="singleProduct.html?id=${product.id}"><img src="images/cd_afspillere/${product.image}" alt=""> <p class="CategoryImg__text">yamaha R-N402 network <br> HiFI Receiver</p>
+ <a href="singleProduct.html?id=${product.id}"><img src="images/category/${product.image}" alt=""> <p class="CategoryImg__text">yamaha R-N402 network <br> HiFI Receiver</p>
  <p class="CategoryImg__price">£429.00 £329.00</p></a>
      
   
