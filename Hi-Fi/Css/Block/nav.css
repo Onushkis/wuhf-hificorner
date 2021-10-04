@@ -18,6 +18,9 @@
    
 }  */
 
+.Nav{
+    background-color: black;
+}
 .Nav a.active
 {
     color: var(--brown);

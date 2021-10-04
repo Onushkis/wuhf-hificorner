@@ -57,12 +57,23 @@ document.addEventListener("DOMContentLoaded", () => {
         });
       });
 
+
+
+      
+
     function getCategory() {
       var url_string = window.location.href;
       var url = new URL(url_string);
       var category_name = url.searchParams.get("categoryName");
       return category_name;
     }
+
+
+
+
+
+
+
 
     // Create the Div Left
 

@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
    
       <div class="MainflexImgText">
           <div class="MainflexImgText__img">
-          <img src="images/cd_afspillere/creek_Destiny_CD.jpg" alt="">
+          <img src="images/category/category12.jpg" alt="">
       </div>
    
       <div class="MainflexImgTextt">
@@ -58,8 +58,8 @@ document.addEventListener("DOMContentLoaded", () => {
    <div class="MainflexImg">
    
    
-   <img src="images/cd_afspillere/creek_evo_cd.jpg" alt="">
-   <img src="images/cd_afspillere/creek_classic_cd.jpg" alt="">
+   <img src="images/category/category12.jpg" alt="">
+   <img src="images/category/category12.jpg" alt="">
    </div>
    </div>      
     </div>
