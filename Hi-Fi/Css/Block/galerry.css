@@ -30,3 +30,47 @@
   text-transform: uppercase;
   
  }
+
+ /* Single page*/
+.Mainflextable{
+  border: 1px solid #ddd;
+  padding: 1em;
+ 
+}
+ .MainflextablePtag{
+   display: flex;
+   justify-content: space-between;
+   margin-top: 1em;
+ 
+ }
+
+ .checkbox-round {
+  width: 1.3em;
+  height: 1.3em;
+  background-color: white;
+  border-radius: 50%;
+  vertical-align: middle;
+  border: 1px solid #ddd;
+  appearance: none;
+  -webkit-appearance: none;
+  outline: none;
+  cursor: pointer;
+  
+}
+
+.checkbox-round:checked {
+  background-color: gray;
+}
+
+
+.checkbox{
+background-color: lightgrey;
+  padding: 5px;
+  width: 250px;
+  height: 30px;
+  border: solid 1px grey;
+  margin: 0.5em;
+
+
+}
+

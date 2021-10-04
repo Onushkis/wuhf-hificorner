@@ -44,11 +44,31 @@ document.addEventListener("DOMContentLoaded", () => {
     <button class="flexContainerBTNt">PAy by finace</button>
     <button class="flexContainerBTNt">Seen a better preice</button> 
 </div>     
-   
+<div class ="Mainflextable">
+
+<div class ="MainflextablePtag">
+    
+
+<p> <span class="required-field">finish</p></span> 
+<p> <span class="required-fieldd">required fields</p></span> 
+
+
+</div>
+<div class="checkbox">
+<input type="checkbox" class="checkbox-round">Black</input>
+
+</div>
+<div class="checkbox">
+
+<input type="checkbox" class="checkbox-round">Silver</input>
+</div>
+</div
+
+</div>
+
    </div>
    
-   
-   
+  
    </div>
    
    <div>

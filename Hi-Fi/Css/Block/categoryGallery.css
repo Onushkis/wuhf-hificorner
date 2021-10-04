@@ -23,6 +23,7 @@
   text-align: center;
   padding: 5px;
   cursor: pointer;
+  
 }
 .flexContainerBTNt {
   background-color: var(--brown);
@@ -33,9 +34,22 @@
   text-transform: uppercase;
   cursor: pointer;
   margin-top: 2em;
-  margin-right: 4em;
 
 }
+.flexContainerBTN {
+  margin-right: 15em;
+}
+
+.required-field::before {
+  content: "*";
+  color: red;
+}
+
+.required-fieldd::after {
+  content: "*";
+  color: red;
+}
+
 
 .CategoryImg__img img:hover{
   transform: scale(1.2);
