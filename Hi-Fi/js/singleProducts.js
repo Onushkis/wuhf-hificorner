@@ -63,7 +63,24 @@ document.addEventListener("DOMContentLoaded", () => {
 <input type="checkbox" class="checkbox-round">Silver</input>
 </div>
 </div
+<div class="Mainflextablee">
 
+<div class ="Mainflextable_span">
+    <span class="Mainflextable__Qty">Qty</span>
+    <span class="Mainflextable__1">1</span>
+    <button class="Mainflextable__addBTn">Add to cart</button>
+</div>
+
+<div class ="Mainflextable_or">
+
+<span class="Mainflextable__Or">-OR-</span>
+<img src="images/category/paypal.jpg" alt="">
+
+<hr>
+
+</div>
+
+</div>  
 </div>
 
    </div>
@@ -79,8 +96,12 @@ document.addEventListener("DOMContentLoaded", () => {
    <div class="MainflexImg">
    <img src="images/category/${single.SingleSmall1}" alt="">
    <img class="MainflexImgTo__second" src="images/category/${single.SingleSmall2}" alt="">
+   
    </div>
+
+   
    </div>      
+   
     </div>
 
 

@@ -246,3 +246,52 @@ overflow: hidden !important;
 	transition-duration: 2s;
 }
 
+.checkbox-round{
+  margin-right: 1em;
+}
+
+
+/* grey div*/
+.Mainflextablee{
+  background-color: lightgrey;
+  padding: 1em;
+ 
+
+}
+
+.Mainflextable__Qty{
+  color: var(--brown);
+  font-weight: bold;
+ 
+}
+
+.Mainflextable__1{
+border: 1px solid grey;
+padding: 10px;
+margin-right: 1em;
+margin-left: 1em;
+}
+
+.Mainflextable__addBTn{
+  background-color: var(--brown);
+  padding: 10px;
+  color: var(--white);
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+
+.Mainflextable_or{
+  margin-top: 1em;
+  margin-bottom: 2em;
+  margin-left: 5em;
+
+
+  
+}
+.Mainflextable__Or{
+  margin-left: 4em;
+  color: var(--brown);
+ 
+  
+}
