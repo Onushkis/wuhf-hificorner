@@ -19,7 +19,13 @@ document.addEventListener("DOMContentLoaded", () => {
       <div class="MainflexImgText">
           <div class="MainflexImgText__img">
           <img src="images/category/${single.image}" alt="">
-      </div>
+          
+    </div>
+<div>
+
+
+</div>
+      
    
       <div class="MainflexImgTextt">
           <p class="MainflexText">${single.name}</p>
@@ -63,6 +69,9 @@ document.addEventListener("DOMContentLoaded", () => {
 <input type="checkbox" class="checkbox-round">Silver</input>
 </div>
 </div
+
+</div>
+
 <div class="Mainflextablee">
 
 <div class ="Mainflextable_span">
@@ -80,14 +89,43 @@ document.addEventListener("DOMContentLoaded", () => {
 
 </div>
 
-</div>  
-</div>
 
+</div>  
+
+<h2 class="Mainflextablee__lastTable">Auditional Informagtion</h2>
+
+
+
+ <TABLE>
+    <TR>
+       <TD class="TABLE__td">Manufacturer</TD>
+       <TD class="TABLE__tdd">Marantz</TD>
+    </TR>
+    <TR>
+       <TD class="TABLE__td">Manufacturer Link</TD>
+       <TD class="TABLE__tdd"><span>Marantz PM 6006</span></TD>
+    </TR>
+    <TR>
+       <TD class="TABLE__td">Free Warranty</TD>
+       <TD class="TABLE__tdd"> Free</TD>
+    </TR>
+
+    <TR>
+        <TD class="TABLE__td">Delivery time</TD>
+        <TD class="TABLE__tdd"> 1 - 5 working days</TD>
+     </TR>
+
+     <TR>
+        <TD class="TABLE__td">Card Surcharges</TD>
+        <TD class="TABLE__tdd"> No</TD>
+     </TR>
+ </TABLE>
    </div>
    
   
    </div>
    
+  
    <div>
    <p class="mainText">View More</p>
    </div>
@@ -98,7 +136,6 @@ document.addEventListener("DOMContentLoaded", () => {
    <img class="MainflexImgTo__second" src="images/category/${single.SingleSmall2}" alt="">
    
    </div>
-
    
    </div>      
    

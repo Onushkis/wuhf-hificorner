@@ -208,6 +208,7 @@
 
   border: 1px solid lightgrey;
     padding: 10em;
+    height: 50%;
     /* width: 60%; */
 }
 
@@ -295,3 +296,45 @@ margin-left: 1em;
  
   
 }
+
+
+/*table*/
+
+table{
+  width: 500px;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+ table, td {
+  border:1px solid black;
+  border-collapse: collapse;
+}
+
+td{
+  /* width: 90px; */
+  height: 30px;
+  
+
+}
+
+.TABLE__td{
+  width: 20%;
+  background-color: lightgrey;
+  text-align: center;
+}
+.TABLE__tdd{
+  width: 60%;
+  text-align:start;
+}
+th{
+  height: 50px;
+  /* width: 40%; */
+}
+
+.Mainflextablee__lastTable{
+  text-transform: uppercase;
+  color: var(--brown);
+  margin-top: 1em;
+
+}
+
