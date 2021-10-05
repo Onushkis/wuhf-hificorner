@@ -234,4 +234,15 @@
   color: var(--brown);
   font-size: 18px;
 }
+.MainflexImgTo__second{
+  margin-left: 3em;
+}
+
+
+.MainflexImg img:hover{
+  transform: scale(1.2);
+	
+overflow: hidden !important;
+	transition-duration: 2s;
+}
 

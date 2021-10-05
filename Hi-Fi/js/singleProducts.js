@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
    
       <div class="MainflexImgText">
           <div class="MainflexImgText__img">
-          <img src="images/category/category12.jpg" alt="">
+          <img src="images/category/${single.image}" alt="">
       </div>
    
       <div class="MainflexImgTextt">
@@ -75,11 +75,10 @@ document.addEventListener("DOMContentLoaded", () => {
    <p class="mainText">View More</p>
    </div>
    
+
    <div class="MainflexImg">
-   
-   
-   <img src="images/category/category12.jpg" alt="">
-   <img src="images/category/category12.jpg" alt="">
+   <img src="images/category/${single.SingleSmall1}" alt="">
+   <img class="MainflexImgTo__second" src="images/category/${single.SingleSmall2}" alt="">
    </div>
    </div>      
     </div>
