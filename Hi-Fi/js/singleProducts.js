@@ -21,6 +21,8 @@ document.addEventListener("DOMContentLoaded", () => {
           <img src="images/category/${single.image}" alt="">
           
     </div>
+
+    
 <div>
 
 
@@ -95,8 +97,7 @@ document.addEventListener("DOMContentLoaded", () => {
 <h2 class="Mainflextablee__lastTable">Auditional Informagtion</h2>
 
 
-
- <TABLE>
+<TABLE>
     <TR>
        <TD class="TABLE__td">Manufacturer</TD>
        <TD class="TABLE__tdd">Marantz</TD>
@@ -120,6 +121,7 @@ document.addEventListener("DOMContentLoaded", () => {
         <TD class="TABLE__tdd"> No</TD>
      </TR>
  </TABLE>
+ 
    </div>
    
   
@@ -137,7 +139,8 @@ document.addEventListener("DOMContentLoaded", () => {
    
    </div>
    
-   </div>      
+   </div> 
+        
    
     </div>
 
